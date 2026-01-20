@@ -1,0 +1,478 @@
+1. What is your age?,4. Occupation Status,7. What social media platforms do you commonly use?,8. What is the average time you spend on social media every day?,9. How often do you find yourself using Social media without a specific purpose?,10. How often do you get distracted by Social media when you are busy doing something?,11. Do you feel restless if you haven't used Social media in a while?,"12. On a scale of 1 to 5, how easily distracted are you?","13. On a scale of 1 to 5, how much are you bothered by worries?",14. Do you find it difficult to concentrate on things?,"15. On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?",17. How often do you look to seek validation from features of social media?,18. How often do you feel depressed or down?,"19. On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?","20. On a scale of 1 to 5, how often do you face issues regarding sleep?",Nutzungszeit_Kategorie
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,5,3,2,5,2,5,2,2,5,4,5,Mittel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",More than 5 hours,4,3,2,4,5,4,5,1,5,4,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3,2,1,2,5,4,3,1,4,2,5,Mittel
+21,University Student,"Facebook, Instagram",More than 5 hours,4,2,1,3,5,3,5,2,4,3,2,Viel
+21,University Student,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3,5,4,4,5,5,3,3,4,4,1,Mittel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest, TikTok",Between 2 and 3 hours,4,4,2,3,4,3,4,3,3,2,4,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 3 and 4 hours,4,3,2,2,4,3,5,4,5,5,3,Mittel
+21,University Student,"Facebook, Instagram, YouTube",More than 5 hours,5,2,3,3,3,1,1,1,5,5,1,Viel
+21,University Student,"Facebook, Instagram, YouTube",More than 5 hours,5,2,3,3,1,1,1,1,5,5,1,Viel
+24,University Student,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,5,5,2,4,3,5,4,3,5,4,5,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,4,2,5,3,4,2,3,3,4,2,Mittel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,3,4,2,4,4,2,4,1,3,1,5,Mittel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest",Between 3 and 4 hours,5,3,2,1,4,4,2,2,3,3,3,Mittel
+22,University Student,"Facebook, YouTube, Pinterest",More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,Viel
+23,University Student,"Facebook, Instagram, YouTube, Reddit",Between 1 and 2 hours,3,4,2,3,4,4,3,2,3,4,2,Wenig
+21,University Student,"Facebook, YouTube, Discord",Less than an Hour,2,2,1,2,4,2,1,1,4,1,3,Wenig
+25,School Student,"Facebook, Instagram, YouTube, Reddit",Between 4 and 5 hours,5,5,4,4,3,3,1,2,2,2,2,Viel
+28,University Student,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,3,4,2,4,5,5,2,1,3,3,1,Wenig
+34,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,2,4,3,3,4,1,1,3,2,2,2,Wenig
+22,University Student,"Facebook, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,4,2,2,3,3,2,2,1,2,3,2,Mittel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,3,2,4,2,4,2,5,1,3,3,1,Viel
+26,University Student,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3,4,3,3,4,4,4,3,4,4,4,Mittel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,3,2,2,4,4,3,3,3,4,4,1,Wenig
+23,University Student,"Facebook, Twitter, YouTube, Discord",Between 3 and 4 hours,3,3,5,5,5,5,4,3,3,5,5,Mittel
+35,Salaried Worker,"Facebook, YouTube",Between 3 and 4 hours,4,4,3,3,3,3,4,4,4,2,2,Mittel
+20,University Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,4,3,3,3,4,2,3,4,3,4,Mittel
+35,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,2,4,4,4,4,4,4,4,4,4,5,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,3,4,3,4,5,4,4,2,4,4,1,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4,4,5,5,5,4,4,3,5,4,1,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,4,3,3,5,4,5,3,5,4,3,Mittel
+35,Salaried Worker,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,3,4,3,3,3,2,2,2,3,4,2,Mittel
+24,Salaried Worker,"Facebook, Instagram, YouTube, TikTok",Between 2 and 3 hours,3,3,3,3,3,4,2,3,2,3,3,Mittel
+18,School Student,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4,3,3,3,4,3,3,4,3,3,2,Mittel
+19,University Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5,5,5,5,5,5,2,1,5,4,4,Mittel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,3,4,5,4,4,5,1,1,4,2,1,Viel
+21,University Student,"Facebook, Instagram",Between 3 and 4 hours,5,3,4,3,2,3,5,4,3,3,1,Mittel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,2,3,1,1,1,3,1,1,5,4,5,Wenig
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 3 and 4 hours,4,5,5,4,4,4,2,3,2,2,5,Mittel
+22,University Student,"Facebook, YouTube, Discord",Between 2 and 3 hours,4,4,2,4,3,5,1,1,1,3,4,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,1,1,1,1,1,1,2,2,3,3,1,Wenig
+21,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,3,5,2,3,3,3,3,2,4,2,2,Mittel
+56,Retired,YouTube,Between 1 and 2 hours,1,1,1,1,3,1,1,1,2,3,1,Wenig
+19,School Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,3,2,4,4,5,4,5,1,5,4,2,Viel
+24,Salaried Worker,"Twitter, Discord, Reddit",More than 5 hours,5,1,1,3,3,3,1,3,3,3,3,Viel
+22,University Student,"Facebook, Instagram, YouTube",More than 5 hours,4,5,4,4,5,2,3,3,3,2,3,Viel
+65,Retired,"Facebook, YouTube",Between 3 and 4 hours,5,3,2,2,2,1,3,3,1,3,2,Mittel
+17,School Student,"Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,3,1,3,5,3,4,1,3,5,1,Mittel
+40,Salaried Worker,"Twitter, YouTube, Reddit",Between 2 and 3 hours,3,3,3,3,2,3,2,1,2,2,1,Mittel
+33,Salaried Worker,"Facebook, YouTube",Between 3 and 4 hours,3,3,1,3,2,1,2,1,1,1,1,Mittel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,4,3,4,3,2,1,3,3,4,4,Mittel
+24,Salaried Worker,"YouTube, Snapchat, Discord",More than 5 hours,5,5,5,5,4,5,2,1,3,5,1,Viel
+26,University Student,Facebook,Less than an Hour,3,5,3,5,5,5,5,5,5,5,5,Wenig
+55,Salaried Worker,"Discord, Reddit",Between 1 and 2 hours,3,2,1,3,2,1,1,1,1,2,1,Wenig
+27,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, TikTok",More than 5 hours,2,5,5,4,4,5,3,4,5,2,3,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,3,2,1,2,4,2,1,1,3,4,2,Viel
+19,School Student,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,3,2,2,2,4,3,3,2,4,4,5,Mittel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,4,5,2,4,4,4,3,4,5,4,2,Mittel
+20,University Student,"Instagram, Reddit",Between 1 and 2 hours,1,1,1,2,2,2,1,1,1,3,5,Wenig
+25,University Student,"Facebook, Twitter, Instagram, YouTube, Discord",More than 5 hours,4,3,3,4,4,4,2,2,4,3,4,Viel
+25,University Student,"YouTube, Reddit",Between 1 and 2 hours,2,2,1,3,5,4,5,4,4,5,4,Wenig
+18,University Student,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4,4,3,5,4,3,1,1,5,4,5,Viel
+25,Salaried Worker,Reddit,Between 1 and 2 hours,3,1,1,3,2,4,1,1,5,1,5,Wenig
+19,University Student,"Discord, Reddit",Between 2 and 3 hours,2,3,1,5,3,5,1,1,1,5,4,Mittel
+24,School Student,"YouTube, Discord, Reddit",Between 1 and 2 hours,3,2,4,3,2,2,1,2,2,4,4,Wenig
+21,University Student,"Facebook, Instagram, Reddit, TikTok",Between 3 and 4 hours,5,5,5,5,5,5,5,4,4,4,1,Mittel
+18,School Student,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,2,1,2,3,5,3,2,2,4,2,4,Mittel
+14,School Student,Reddit,Between 1 and 2 hours,4,2,2,3,5,3,3,2,4,4,4,Wenig
+25,University Student,"YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4,4,3,3,3,2,3,2,3,4,4,Mittel
+33,Salaried Worker,"Instagram, YouTube",Between 3 and 4 hours,2,4,3,2,2,2,1,1,1,2,2,Mittel
+23,School Student,"Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,5,5,5,5,5,5,5,5,5,5,5,Mittel
+14,School Student,"Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,4,4,2,2,4,2,4,4,4,4,5,Viel
+38,Salaried Worker,"Twitter, YouTube, Discord, Reddit",Between 1 and 2 hours,5,2,1,3,2,1,1,1,2,1,2,Wenig
+23,Retired,"Facebook, YouTube, Discord, Reddit",Between 4 and 5 hours,4,4,3,3,4,5,3,4,5,5,4,Viel
+26,Salaried Worker,Reddit,Less than an Hour,2,1,1,3,2,1,1,1,2,3,4,Wenig
+24,University Student,"Facebook, YouTube, Reddit",Between 2 and 3 hours,4,5,3,4,3,2,2,4,5,4,2,Mittel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,3,4,4,5,4,5,2,4,4,2,Mittel
+18,University Student,"Facebook, YouTube, Reddit",Between 3 and 4 hours,4,3,3,3,5,5,4,1,5,5,5,Mittel
+28,University Student,"Facebook, YouTube, Discord, Reddit",Between 3 and 4 hours,2,5,4,3,5,5,5,1,5,3,5,Mittel
+22,University Student,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,4,4,5,5,5,3,1,4,4,5,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,4,4,2,5,4,4,3,2,1,5,4,Viel
+21,University Student,"Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5,5,3,5,4,5,2,2,4,5,2,Viel
+21,University Student,"Facebook, Instagram, YouTube, Pinterest",Between 4 and 5 hours,3,5,5,5,3,5,4,3,4,5,5,Viel
+17,School Student,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 2 and 3 hours,4,4,3,4,5,4,3,4,2,4,2,Mittel
+24,Salaried Worker,"YouTube, Reddit",Between 2 and 3 hours,4,3,2,3,5,2,3,2,4,3,1,Mittel
+22,University Student,"Facebook, YouTube",Between 1 and 2 hours,3,4,3,4,1,3,1,2,2,4,4,Wenig
+32,Salaried Worker,Reddit,Between 1 and 2 hours,4,3,2,5,2,5,2,1,1,2,1,Wenig
+22,University Student,"Facebook, YouTube",Between 2 and 3 hours,5,4,2,2,1,3,1,5,3,2,2,Mittel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,4,5,4,5,5,5,4,4,5,5,4,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,3,5,2,4,4,4,2,2,4,4,3,Mittel
+28,University Student,"Facebook, YouTube",Between 3 and 4 hours,4,5,4,5,5,5,2,2,4,5,2,Mittel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4,3,3,4,5,4,1,2,4,2,1,Viel
+17,School Student,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,4,3,4,2,4,3,2,3,3,5,Viel
+30,Salaried Worker,Instagram,Between 4 and 5 hours,4,5,3,2,4,4,3,3,4,4,4,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5,5,1,3,2,5,2,1,3,1,5,Viel
+14,School Student,"Instagram, YouTube, Discord",Between 4 and 5 hours,5,5,2,4,2,3,1,1,1,3,5,Viel
+20,School Student,"YouTube, Reddit",More than 5 hours,4,2,1,2,1,1,2,1,4,3,2,Viel
+22,School Student,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4,4,4,4,4,5,5,4,5,5,3,Viel
+16,School Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 4 and 5 hours,4,5,2,5,3,4,3,4,2,1,3,Viel
+22,University Student,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,3,4,3,4,4,3,2,3,3,2,3,Mittel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,5,4,3,4,4,2,1,1,5,3,5,Wenig
+22,University Student,Instagram,Between 3 and 4 hours,3,4,3,3,4,3,2,3,4,3,3,Mittel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,4,3,4,3,5,5,3,4,3,5,5,Wenig
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,2,3,4,3,3,3,3,4,1,3,3,Viel
+23,University Student,"Facebook, YouTube",Between 4 and 5 hours,2,3,4,3,3,3,3,3,2,4,5,Viel
+23,University Student,"Facebook, Instagram, TikTok",Between 2 and 3 hours,3,2,2,4,2,2,1,3,3,4,5,Mittel
+48,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,1,1,1,1,3,2,1,2,1,1,1,Wenig
+21,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,3,2,1,3,2,3,2,3,2,2,5,Mittel
+47,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,4,3,3,3,2,2,2,3,3,3,3,Mittel
+48,Salaried Worker,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3,3,4,4,4,4,4,3,2,3,3,Mittel
+26,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,4,5,4,4,5,3,5,3,4,2,3,Viel
+47,Salaried Worker,"Facebook, YouTube",Between 2 and 3 hours,4,3,4,4,3,3,2,1,2,2,4,Mittel
+47,Salaried Worker,"Facebook, Instagram, Snapchat",Between 1 and 2 hours,2,4,3,3,3,3,3,2,2,3,4,Wenig
+27,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,2,5,4,4,3,2,5,4,4,4,1,Viel
+34,Salaried Worker,Facebook,More than 5 hours,5,5,4,5,3,1,3,3,2,5,4,Viel
+20,University Student,"Facebook, Instagram",Between 2 and 3 hours,5,5,5,5,5,5,3,1,3,3,5,Mittel
+22,University Student,Facebook,More than 5 hours,5,4,5,4,5,4,3,4,3,3,4,Viel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,5,5,5,5,5,4,5,4,5,4,5,Viel
+20,University Student,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4,5,3,4,3,5,2,3,4,4,5,Viel
+48,Salaried Worker,"Facebook, Instagram",Less than an Hour,2,4,1,3,2,1,1,2,1,1,1,Wenig
+20,University Student,"Facebook, Instagram, YouTube, TikTok",Between 3 and 4 hours,4,3,1,2,4,2,4,1,3,3,3,Mittel
+20,University Student,"Facebook, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,4,5,5,5,2,5,2,1,5,4,3,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,4,5,5,5,3,1,4,2,2,Viel
+22,University Student,Instagram,More than 5 hours,5,5,3,3,2,3,4,4,1,4,1,Viel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,4,3,5,4,3,2,2,4,5,3,Viel
+24,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,1,1,3,3,4,4,3,2,4,4,4,Mittel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,3,2,4,3,5,3,5,4,4,2,5,Viel
+20,University Student,"Facebook, Instagram, YouTube",Between 3 and 4 hours,5,2,1,2,1,1,5,1,4,5,3,Mittel
+16,School Student,"Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3,1,2,3,3,2,2,1,3,3,2,Mittel
+50,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2,1,1,3,3,2,1,3,1,1,4,Mittel
+47,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,4,2,2,3,2,1,4,3,3,2,2,Wenig
+24,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,3,3,2,3,4,3,2,2,3,1,4,Mittel
+38,Salaried Worker,Facebook,Less than an Hour,3,2,3,2,2,1,3,1,2,1,1,Wenig
+49,Retired,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,5,5,3,3,4,3,3,3,4,4,5,Viel
+47,Salaried Worker,"Facebook, YouTube, Pinterest",Between 2 and 3 hours,3,3,3,3,3,2,1,1,1,1,4,Mittel
+48,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3,3,1,3,1,1,1,1,1,1,1,Mittel
+51,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 1 and 2 hours,4,3,2,3,3,4,3,3,3,3,3,Wenig
+50,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,4,3,4,5,5,4,3,3,4,4,2,Mittel
+47,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 3 and 4 hours,3,2,2,2,2,2,3,1,1,2,1,Mittel
+27,Salaried Worker,"Facebook, Instagram, YouTube",Between 4 and 5 hours,4,5,2,5,5,5,5,3,3,5,4,Viel
+40,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4,2,1,2,4,3,3,3,4,3,1,Wenig
+46,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat",Less than an Hour,3,1,1,1,2,1,1,5,2,2,2,Wenig
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4,3,4,3,3,2,5,3,5,5,5,Viel
+47,Salaried Worker,Facebook,Between 1 and 2 hours,4,4,3,3,2,2,4,3,3,3,3,Wenig
+20,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,4,4,3,4,4,4,5,4,4,3,4,Viel
+47,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,3,4,3,4,5,4,2,1,2,3,2,Wenig
+48,Salaried Worker,"Facebook, Instagram, YouTube",Between 3 and 4 hours,3,3,3,3,2,2,3,3,2,3,2,Mittel
+49,Salaried Worker,"Facebook, YouTube",Between 4 and 5 hours,4,3,2,2,2,2,2,2,2,2,4,Viel
+21,University Student,"Facebook, YouTube, Discord",Between 3 and 4 hours,3,2,1,1,2,2,2,3,2,2,2,Mittel
+32,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 4 and 5 hours,5,2,4,3,2,1,1,1,1,2,5,Viel
+47,Salaried Worker,"Twitter, Instagram, YouTube",Between 2 and 3 hours,3,1,2,3,2,2,3,2,2,2,3,Mittel
+50,Salaried Worker,"Facebook, Twitter, YouTube",Between 1 and 2 hours,1,1,2,3,2,2,1,3,3,2,2,Wenig
+48,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Less than an Hour,5,1,1,2,4,2,1,3,4,2,5,Wenig
+21,University Student,"Facebook, Instagram, YouTube, Pinterest",Between 3 and 4 hours,2,2,1,5,4,5,3,2,3,5,4,Mittel
+47,Salaried Worker,Twitter,Less than an Hour,1,1,2,5,3,4,2,1,2,4,4,Wenig
+36,Salaried Worker,YouTube,Between 2 and 3 hours,3,2,1,2,4,4,1,1,1,1,4,Mittel
+37,Retired,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3,1,2,2,1,3,1,2,4,2,4,Wenig
+19,School Student,Facebook,Between 4 and 5 hours,5,4,4,3,5,4,2,4,4,5,5,Viel
+30,Salaried Worker,"Facebook, Instagram, YouTube",Between 1 and 2 hours,4,2,1,2,2,1,4,2,2,2,5,Wenig
+48,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Less than an Hour,3,1,1,1,1,1,5,2,1,5,2,Wenig
+48,Retired,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,4,5,5,5,4,5,3,2,3,5,4,Viel
+48,Salaried Worker,"Twitter, YouTube",Between 3 and 4 hours,3,2,3,3,4,3,2,2,3,3,4,Mittel
+47,Salaried Worker,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,3,2,3,5,5,5,2,2,3,2,4,Mittel
+47,Salaried Worker,"Facebook, Twitter",Less than an Hour,2,2,2,3,2,2,4,2,2,2,2,Wenig
+48,Salaried Worker,"Facebook, YouTube, Pinterest",Less than an Hour,5,1,1,2,2,1,1,1,2,1,4,Wenig
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,2,4,2,3,2,1,3,3,2,1,4,Mittel
+48,Salaried Worker,"Twitter, YouTube",Between 1 and 2 hours,2,2,1,2,1,1,2,1,1,2,2,Wenig
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,2,3,2,4,3,3,2,1,2,2,1,Wenig
+20,University Student,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",More than 5 hours,5,5,5,4,2,4,3,1,3,3,4,Viel
+20,University Student,"Facebook, YouTube",Between 3 and 4 hours,4,5,4,4,5,5,5,2,3,4,4,Mittel
+20,University Student,"Facebook, Instagram, YouTube",Between 1 and 2 hours,5,5,2,3,4,5,3,4,5,5,5,Wenig
+21,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,4,4,4,4,4,2,4,4,3,3,1,Wenig
+20,University Student,"Instagram, YouTube, Pinterest",Between 4 and 5 hours,4,3,5,5,4,4,5,3,4,4,5,Viel
+47,Salaried Worker,"Twitter, Instagram, YouTube, Reddit, TikTok",Between 2 and 3 hours,4,3,3,2,4,3,1,1,1,2,1,Mittel
+35,Salaried Worker,"Facebook, YouTube",Less than an Hour,3,2,1,1,1,1,1,4,1,1,1,Wenig
+23,University Student,Pinterest,Between 3 and 4 hours,5,3,3,4,3,5,1,3,4,3,5,Mittel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,3,5,4,5,5,4,3,1,3,5,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3,2,5,2,4,1,3,4,4,2,1,Mittel
+37,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,5,4,4,3,5,2,5,2,4,4,5,Wenig
+48,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,4,2,2,3,2,2,2,3,3,3,4,Wenig
+47,Salaried Worker,"Facebook, YouTube, TikTok",Less than an Hour,3,1,1,2,4,2,3,2,1,2,3,Wenig
+25,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest, TikTok",Between 4 and 5 hours,3,4,5,4,5,4,2,4,5,3,2,Viel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5,5,4,5,4,3,2,3,3,4,4,Viel
+45,Salaried Worker,"Facebook, YouTube",Between 2 and 3 hours,3,2,3,3,3,3,3,2,2,2,2,Mittel
+47,Salaried Worker,"Instagram, YouTube",Between 1 and 2 hours,4,3,2,4,3,2,2,3,3,2,1,Wenig
+47,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 4 and 5 hours,4,5,2,3,3,1,3,1,3,3,1,Viel
+24,University Student,"Facebook, Instagram, Pinterest",More than 5 hours,5,3,4,3,4,5,3,3,4,3,4,Viel
+21,University Student,Instagram,Between 2 and 3 hours,5,5,5,5,1,5,2,5,2,5,5,Mittel
+22,University Student,"Facebook, YouTube, Discord, Reddit, Pinterest",Between 2 and 3 hours,3,2,2,2,2,2,1,3,4,2,1,Mittel
+19,School Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 2 and 3 hours,3,4,3,3,3,3,3,3,4,3,1,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,3,3,2,4,2,4,3,1,4,4,4,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,3,3,3,5,3,2,4,5,3,4,Viel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,4,4,5,4,1,4,4,5,5,Mittel
+42,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,3,1,1,1,1,1,1,1,1,3,1,Mittel
+35,Salaried Worker,Facebook,Between 2 and 3 hours,5,3,2,2,1,3,2,1,3,2,2,Mittel
+38,Salaried Worker,"Facebook, Twitter, YouTube, Discord, Reddit",Between 4 and 5 hours,3,3,3,2,3,2,3,3,2,2,2,Viel
+17,School Student,"Facebook, Instagram, YouTube",Less than an Hour,2,2,2,2,2,1,1,1,1,1,2,Wenig
+32,Salaried Worker,"Facebook, YouTube, Discord, Reddit",Between 1 and 2 hours,3,1,3,2,2,1,1,1,1,2,1,Wenig
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,3,3,2,5,4,5,4,2,2,3,2,Wenig
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,4,2,2,2,4,3,2,2,3,2,5,Mittel
+27,University Student,"Facebook, Instagram, YouTube",More than 5 hours,5,5,3,3,3,3,1,1,3,3,4,Viel
+21,University Student,"Facebook, Instagram, YouTube, Discord, Reddit, TikTok",Between 3 and 4 hours,4,5,3,5,5,5,5,4,3,5,3,Mittel
+27,Salaried Worker,"Facebook, Discord, Reddit",More than 5 hours,5,5,5,5,5,5,1,1,5,5,5,Viel
+20,School Student,"Instagram, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,3,2,3,2,3,2,3,3,2,1,4,Mittel
+27,Salaried Worker,"Facebook, Instagram, YouTube",Between 3 and 4 hours,4,4,4,5,4,3,2,1,1,3,2,Mittel
+24,University Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5,5,5,5,1,5,5,1,5,5,4,Mittel
+26,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3,2,1,1,1,1,1,1,1,1,1,Mittel
+20,University Student,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,2,1,1,2,5,3,5,3,4,3,4,Mittel
+31,Salaried Worker,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,3,3,3,3,4,3,4,4,3,3,2,Mittel
+21,University Student,"YouTube, Discord, Reddit",More than 5 hours,5,1,1,1,1,1,1,1,1,1,1,Viel
+34,Salaried Worker,"Facebook, YouTube, TikTok",More than 5 hours,5,3,2,3,3,4,4,5,5,5,5,Viel
+22,University Student,"Facebook, YouTube, Snapchat",Less than an Hour,1,1,1,1,1,1,1,1,1,1,1,Wenig
+20,University Student,Instagram,More than 5 hours,3,3,1,3,5,3,2,5,4,5,1,Viel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4,2,1,1,3,1,1,1,3,2,1,Viel
+48,Salaried Worker,"Facebook, YouTube",Less than an Hour,1,1,1,1,1,1,5,3,1,1,1,Wenig
+37,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,4,4,1,3,4,4,4,3,2,3,2,Wenig
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,3,3,2,3,4,4,4,3,5,4,4,Wenig
+50,Salaried Worker,Facebook,Between 1 and 2 hours,3,2,3,3,3,5,4,5,2,4,3,Wenig
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4,4,4,5,5,5,4,3,3,4,4,Viel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 2 and 3 hours,4,4,1,3,2,2,1,1,2,4,1,Mittel
+21,University Student,"Facebook, YouTube",Between 1 and 2 hours,4,3,1,3,4,3,5,3,3,4,3,Wenig
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,3,3,3,3,3,2,2,3,3,3,3,Mittel
+22,University Student,Facebook,More than 5 hours,3,1,4,4,3,4,3,3,4,4,3,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,2,5,3,3,3,4,5,3,2,4,3,Viel
+19,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 3 and 4 hours,5,4,5,3,5,4,5,5,4,4,3,Mittel
+23,University Student,"Facebook, Instagram, YouTube",Between 2 and 3 hours,5,5,3,5,3,5,1,2,2,2,5,Mittel
+46,Salaried Worker,"Facebook, YouTube",Less than an Hour,2,1,1,1,1,1,1,1,1,3,4,Wenig
+21,University Student,"Facebook, Instagram, YouTube",More than 5 hours,4,5,3,4,4,4,3,4,4,4,5,Viel
+24,University Student,"Facebook, Instagram, YouTube, Discord",More than 5 hours,2,3,1,2,4,3,4,3,4,1,1,Viel
+20,University Student,"Facebook, Instagram, YouTube",Less than an Hour,3,1,1,1,2,2,5,2,1,3,1,Wenig
+25,University Student,YouTube,Between 1 and 2 hours,5,5,1,1,2,3,4,3,5,2,5,Wenig
+21,University Student,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,2,1,1,2,2,1,1,1,1,1,1,Mittel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,4,4,3,5,4,4,4,1,4,4,3,Viel
+22,Salaried Worker,"Instagram, YouTube, Discord, Reddit, TikTok",More than 5 hours,5,4,4,4,4,3,4,4,4,5,1,Viel
+36,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Less than an Hour,2,1,1,2,3,1,3,1,2,1,1,Wenig
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,5,5,3,5,5,2,3,2,5,3,5,Mittel
+69,Salaried Worker,TikTok,More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,Viel
+25,Salaried Worker,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3,4,2,5,5,1,5,5,4,5,5,Viel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",Between 4 and 5 hours,4,2,1,5,4,3,5,4,4,4,2,Viel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,3,4,2,5,5,5,5,4,2,3,4,Mittel
+23,University Student,"Facebook, Instagram",Less than an Hour,3,2,1,3,4,3,3,2,3,2,5,Wenig
+19,School Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,5,3,2,3,5,5,2,3,3,5,5,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 1 and 2 hours,3,5,2,4,2,2,1,2,3,2,3,Wenig
+27,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,5,5,3,4,4,4,4,3,4,4,2,Viel
+25,University Student,"Facebook, YouTube, Discord",More than 5 hours,4,3,1,2,4,3,4,2,4,2,1,Viel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4,2,1,3,4,1,1,1,2,2,3,Mittel
+34,Salaried Worker,Facebook,Between 1 and 2 hours,2,5,1,1,1,5,2,5,1,2,1,Wenig
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,5,5,3,3,5,3,3,3,4,5,4,Viel
+34,Salaried Worker,Facebook,Between 1 and 2 hours,2,2,1,1,1,1,2,1,1,1,1,Wenig
+26,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",Between 4 and 5 hours,5,5,3,5,5,5,3,3,5,4,4,Viel
+25,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,4,5,2,5,1,5,2,4,5,1,5,Viel
+22,University Student,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,5,4,2,3,3,2,1,2,2,3,3,Mittel
+20,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Less than an Hour,4,2,1,3,5,2,1,2,2,4,2,Wenig
+23,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,3,4,5,5,5,3,3,4,5,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4,1,2,1,1,1,1,1,1,2,3,Viel
+23,University Student,"Facebook, Instagram, YouTube, TikTok",More than 5 hours,3,3,2,3,3,4,3,4,4,3,2,Viel
+21,University Student,"Facebook, Instagram, Discord",Between 2 and 3 hours,2,3,4,2,3,4,2,2,3,1,4,Mittel
+36,Salaried Worker,"Facebook, YouTube, Snapchat",Between 1 and 2 hours,4,1,1,2,2,1,1,2,2,3,3,Wenig
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 2 and 3 hours,3,3,2,3,5,4,3,3,5,5,4,Mittel
+22,University Student,"Facebook, Instagram, YouTube",Between 1 and 2 hours,2,2,2,2,2,3,4,3,3,2,2,Wenig
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest, TikTok",More than 5 hours,4,4,3,4,2,4,4,4,3,4,3,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,2,5,4,4,4,4,2,2,3,2,Viel
+20,University Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,3,3,3,3,4,3,4,3,3,3,2,Mittel
+26,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",More than 5 hours,4,4,1,3,3,2,2,1,2,2,4,Viel
+21,University Student,YouTube,Between 2 and 3 hours,3,3,2,5,5,4,2,2,4,2,4,Mittel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,4,5,3,5,5,5,2,1,3,4,5,Viel
+21,University Student,"Facebook, Twitter, YouTube, Discord, Pinterest",More than 5 hours,3,2,1,2,3,1,1,1,3,3,2,Viel
+19,School Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3,2,1,5,2,3,1,1,2,1,5,Viel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,4,5,5,5,5,5,5,4,5,5,5,Viel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5,4,3,4,4,3,2,4,3,3,4,Mittel
+23,University Student,"YouTube, Discord, Reddit",Between 1 and 2 hours,2,2,1,5,5,5,1,1,5,1,5,Wenig
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",Between 2 and 3 hours,4,4,4,5,5,4,4,3,3,4,3,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,5,4,2,5,5,4,4,3,5,5,5,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,5,5,3,5,5,5,5,5,5,5,5,Viel
+26,Salaried Worker,"Facebook, Instagram, YouTube, Discord",More than 5 hours,5,5,5,5,5,5,5,1,5,5,5,Viel
+22,University Student,"Facebook, Instagram, YouTube, Discord",Between 2 and 3 hours,4,4,2,3,5,3,1,4,5,2,2,Mittel
+17,School Student,Discord,Between 2 and 3 hours,3,4,3,3,3,3,5,4,5,3,4,Mittel
+23,University Student,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",More than 5 hours,4,3,3,4,5,4,5,4,3,4,5,Viel
+21,School Student,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,2,4,2,4,5,4,5,4,4,3,3,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,1,1,1,1,1,1,2,1,2,1,2,Viel
+20,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,4,5,3,2,5,3,4,1,5,4,5,Viel
+24,University Student,"Facebook, Twitter, Instagram, YouTube",Between 4 and 5 hours,4,4,3,4,4,4,3,3,4,4,4,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,4,2,5,4,5,3,2,3,4,4,Mittel
+24,University Student,"Facebook, Twitter, Instagram, YouTube, Discord",Between 3 and 4 hours,4,3,2,3,2,3,2,3,2,3,2,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",More than 5 hours,3,4,4,5,5,4,5,4,5,4,4,Viel
+26,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 4 and 5 hours,3,3,2,2,4,2,2,4,4,2,2,Viel
+24,Salaried Worker,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,2,1,1,2,4,2,1,3,3,2,4,Mittel
+22,University Student,"Facebook, YouTube",Between 2 and 3 hours,3,4,1,2,2,3,3,3,3,4,4,Mittel
+25,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,3,2,1,2,4,3,3,2,4,2,3,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,4,5,3,4,4,5,2,3,4,5,4,Viel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat, TikTok",Between 2 and 3 hours,4,4,4,4,4,4,5,4,5,5,5,Mittel
+22,University Student,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3,3,1,3,1,1,1,5,1,1,1,Wenig
+25,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,2,1,3,2,4,4,3,1,2,1,1,Mittel
+17,School Student,"Facebook, Discord",Between 4 and 5 hours,2,1,4,2,5,2,4,1,4,2,2,Viel
+22,University Student,"Facebook, Twitter, Instagram, YouTube",Between 2 and 3 hours,4,2,3,3,5,4,4,3,4,3,5,Mittel
+26,University Student,"Facebook, Twitter, Instagram, YouTube, Reddit",Between 1 and 2 hours,3,4,2,4,4,4,2,1,3,3,2,Wenig
+22,University Student,Facebook,Between 2 and 3 hours,2,3,2,3,3,3,4,3,5,3,3,Mittel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,3,4,5,3,5,3,3,3,5,1,4,Mittel
+25,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4,2,2,3,5,4,1,2,5,5,5,Mittel
+21,School Student,"Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,5,3,5,2,5,2,4,4,5,2,Mittel
+30,Salaried Worker,"Facebook, TikTok",Between 2 and 3 hours,4,5,4,3,3,5,4,1,4,4,5,Mittel
+23,University Student,"Facebook, Instagram, YouTube",Between 3 and 4 hours,2,4,1,3,4,3,4,2,3,3,2,Mittel
+22,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,5,4,5,5,4,3,3,3,4,2,Viel
+21,University Student,"Facebook, Instagram, YouTube",Between 4 and 5 hours,5,5,5,4,4,3,5,2,5,4,3,Viel
+20,University Student,"Facebook, YouTube",Between 3 and 4 hours,5,3,2,4,2,2,1,5,1,4,1,Mittel
+18,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,3,2,2,2,4,2,1,3,2,3,4,Viel
+20,University Student,"Twitter, Instagram, YouTube",Between 3 and 4 hours,3,3,2,2,4,2,2,2,2,3,1,Mittel
+15,School Student,"Instagram, YouTube, Discord, Pinterest",Between 3 and 4 hours,4,3,1,3,5,3,3,1,5,4,5,Mittel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,3,2,3,5,5,1,1,3,4,5,Viel
+17,School Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,2,5,4,5,3,5,2,3,2,4,2,Viel
+21,University Student,"Facebook, Instagram",Between 1 and 2 hours,2,3,1,4,5,4,3,1,5,5,5,Wenig
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,5,1,4,1,4,4,3,2,4,5,4,Viel
+23,University Student,Facebook,More than 5 hours,4,3,3,4,4,5,4,3,3,3,4,Viel
+24,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,2,1,1,1,4,1,1,1,3,1,3,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,4,5,3,5,3,2,5,5,4,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,5,5,5,5,5,4,5,5,5,Viel
+22,University Student,"Facebook, YouTube, Snapchat, Discord",More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,Viel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",More than 5 hours,3,4,5,4,5,4,5,3,5,4,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",More than 5 hours,3,3,2,2,4,4,4,3,4,2,4,Viel
+18,School Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",More than 5 hours,5,4,1,2,4,3,1,3,3,3,5,Viel
+19,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",Less than an Hour,3,2,1,2,4,2,2,4,2,2,5,Wenig
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5,4,2,4,5,5,1,1,5,1,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",More than 5 hours,4,2,3,5,5,4,4,5,5,5,1,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,5,5,4,5,5,4,5,3,5,3,5,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,4,5,4,4,5,5,2,5,5,5,4,Mittel
+21,University Student,"Facebook, Instagram, Snapchat, Pinterest, TikTok",Between 2 and 3 hours,4,4,1,3,2,2,2,2,4,3,2,Mittel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 2 and 3 hours,5,4,3,5,4,5,3,2,4,4,4,Mittel
+19,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,4,2,2,2,3,1,2,1,1,3,4,Mittel
+26,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,3,2,4,3,3,4,1,4,2,2,Mittel
+27,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 2 and 3 hours,5,5,2,2,1,1,2,1,3,2,3,Mittel
+25,University Student,"Facebook, Instagram, YouTube, Pinterest, TikTok",More than 5 hours,5,5,4,4,5,1,2,3,5,2,4,Viel
+20,University Student,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,3,3,3,3,3,3,3,3,3,3,3,Viel
+20,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat",More than 5 hours,4,2,4,3,5,4,1,2,4,4,2,Viel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 3 and 4 hours,4,4,1,3,3,1,1,1,1,2,2,Mittel
+18,School Student,"Facebook, Instagram, YouTube",Between 3 and 4 hours,5,5,2,5,4,5,5,4,4,5,5,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",Between 2 and 3 hours,4,3,2,3,4,3,2,1,3,1,3,Mittel
+20,Salaried Worker,"Facebook, Twitter, Instagram, Snapchat, Reddit",Between 1 and 2 hours,3,3,2,3,5,3,1,4,5,3,2,Wenig
+24,Salaried Worker,"YouTube, Discord",More than 5 hours,5,3,5,5,4,5,1,1,3,5,1,Viel
+21,University Student,"Facebook, Instagram, YouTube",Between 4 and 5 hours,3,4,3,3,5,5,4,4,3,4,3,Viel
+29,Salaried Worker,"Facebook, Instagram",Between 3 and 4 hours,5,3,1,3,5,3,2,1,5,5,5,Mittel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",Between 1 and 2 hours,4,4,3,3,5,2,4,2,2,4,5,Wenig
+19,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",More than 5 hours,3,5,4,3,5,4,1,1,5,5,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,5,4,3,4,4,4,2,1,5,4,2,Mittel
+43,Salaried Worker,"Facebook, YouTube",Less than an Hour,2,1,1,1,1,1,1,3,1,1,1,Wenig
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,5,3,4,4,4,4,1,4,2,1,Viel
+24,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,4,5,3,5,5,5,1,1,3,2,1,Viel
+18,School Student,"Facebook, YouTube",More than 5 hours,5,5,3,3,5,4,1,1,5,4,4,Viel
+19,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4,3,1,3,4,4,2,1,4,3,5,Mittel
+37,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,2,2,1,3,3,2,2,1,3,3,4,Wenig
+24,University Student,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4,4,2,4,4,5,4,3,3,4,5,Viel
+29,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 1 and 2 hours,2,2,1,4,5,4,4,1,5,2,4,Wenig
+19,School Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,3,3,2,2,3,2,2,3,2,2,2,Viel
+35,Salaried Worker,"Facebook, Instagram, YouTube, Discord",Less than an Hour,2,3,2,2,4,4,2,4,3,2,5,Wenig
+22,University Student,"Twitter, Discord, Reddit",Between 2 and 3 hours,4,5,4,5,5,4,3,1,4,4,2,Mittel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",Between 1 and 2 hours,3,2,2,3,2,2,2,2,3,2,3,Wenig
+22,University Student,"Twitter, Instagram, TikTok",More than 5 hours,5,5,5,4,4,4,2,2,3,4,1,Viel
+25,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,4,4,1,5,5,3,5,2,4,3,5,Mittel
+19,School Student,"Facebook, Instagram, YouTube, TikTok",Between 4 and 5 hours,3,3,4,3,3,3,4,3,3,3,2,Viel
+29,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,4,4,1,3,3,3,2,1,2,2,4,Wenig
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 4 and 5 hours,4,5,3,3,3,3,5,4,4,3,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 4 and 5 hours,4,2,2,2,1,1,1,1,2,2,2,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 2 and 3 hours,3,2,1,1,1,3,1,2,1,2,2,Mittel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,4,2,4,5,5,5,4,5,2,5,Viel
+22,University Student,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4,5,4,5,3,5,4,2,4,4,4,Mittel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,5,5,5,5,5,5,5,5,5,5,5,Viel
+22,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,5,5,5,1,3,3,2,1,2,1,Viel
+27,Salaried Worker,"Facebook, Instagram, Snapchat, Discord, Pinterest, TikTok",Between 3 and 4 hours,3,3,3,3,4,4,4,3,5,3,4,Mittel
+24,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,2,2,2,4,2,2,3,2,1,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 1 and 2 hours,5,5,2,4,5,5,5,5,4,5,5,Wenig
+23,University Student,"YouTube, Pinterest",Less than an Hour,3,2,1,1,2,1,1,2,3,4,3,Wenig
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,4,2,5,4,4,2,2,3,3,5,Mittel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat",Between 2 and 3 hours,4,4,3,3,4,2,4,3,2,2,1,Mittel
+24,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,3,2,2,3,5,3,5,3,5,5,4,Viel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,3,2,2,3,4,3,1,2,5,2,4,Viel
+30,Salaried Worker,"Facebook, Instagram, YouTube",Between 2 and 3 hours,4,5,3,5,5,5,4,5,4,5,4,Mittel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 3 and 4 hours,3,4,2,2,5,4,5,5,5,2,2,Mittel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,4,3,3,3,2,2,3,1,1,3,2,Viel
+29,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",More than 5 hours,5,5,3,5,4,5,5,3,5,5,5,Viel
+20,University Student,"Instagram, YouTube, Discord, Reddit, Pinterest",Between 3 and 4 hours,4,3,2,3,5,5,5,5,5,5,1,Mittel
+27,University Student,"Facebook, YouTube",More than 5 hours,4,2,2,3,5,3,5,3,4,5,5,Viel
+24,Salaried Worker,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,3,4,1,3,3,2,3,4,5,3,3,Wenig
+26,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,5,3,4,4,4,5,2,3,4,3,Mittel
+22,University Student,"Facebook, YouTube, Discord",Between 2 and 3 hours,5,4,2,3,3,4,3,1,2,2,4,Mittel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",Between 4 and 5 hours,5,5,2,4,5,3,5,2,3,3,4,Viel
+19,School Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 4 and 5 hours,4,4,2,4,4,4,5,4,2,4,4,Viel
+21,University Student,"Twitter, Instagram, YouTube, TikTok",Between 2 and 3 hours,3,4,3,4,4,4,5,2,4,4,2,Mittel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 4 and 5 hours,5,5,5,5,5,5,2,2,4,4,5,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,4,4,4,2,3,2,4,3,3,4,Viel
+22,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,3,3,3,4,5,5,4,1,5,3,3,Viel
+23,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",More than 5 hours,5,4,4,5,5,5,2,1,5,5,5,Viel
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,5,5,5,5,5,5,4,5,4,1,Viel
+20,School Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",More than 5 hours,5,4,2,3,3,2,1,3,2,2,2,Viel
+27,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Between 1 and 2 hours,4,2,1,2,3,1,2,4,2,2,1,Wenig
+22,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,4,4,4,4,4,2,3,5,4,3,Viel
+21,University Student,Facebook,More than 5 hours,4,4,3,5,4,5,4,4,5,5,5,Viel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",Between 2 and 3 hours,2,1,4,2,2,2,3,2,1,4,4,Mittel
+24,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 4 and 5 hours,3,4,1,5,4,5,3,4,5,5,5,Viel
+19,University Student,"Facebook, Twitter, Instagram, YouTube",Between 3 and 4 hours,4,2,3,3,4,3,2,2,4,4,3,Mittel
+52,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,2,2,3,3,3,2,3,2,3,2,4,Wenig
+26,University Student,"Facebook, Instagram, YouTube, Reddit, Pinterest, TikTok",More than 5 hours,5,4,3,4,4,4,3,2,3,4,5,Viel
+44,Salaried Worker,Facebook,Less than an Hour,1,1,1,2,1,1,1,1,1,1,1,Wenig
+44,Salaried Worker,Facebook,Less than an Hour,1,1,1,1,1,1,1,1,1,1,1,Wenig
+19,University Student,"Facebook, YouTube, Discord, Pinterest",Between 3 and 4 hours,4,5,2,4,5,3,5,1,5,4,5,Mittel
+35,Salaried Worker,"Facebook, Snapchat, Reddit",Between 3 and 4 hours,5,5,5,5,5,5,5,1,5,5,5,Mittel
+21,University Student,"Facebook, Instagram, Snapchat",More than 5 hours,3,5,2,5,3,5,4,4,4,3,3,Viel
+20,University Student,"Facebook, Instagram, TikTok",Between 4 and 5 hours,4,5,5,5,5,5,2,1,4,5,1,Viel
+24,University Student,"Facebook, Twitter, Instagram, YouTube, Reddit",More than 5 hours,5,2,4,2,5,1,3,4,4,2,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Reddit, Pinterest",Between 3 and 4 hours,4,4,3,5,5,5,5,1,3,3,1,Mittel
+24,University Student,"Facebook, Instagram, YouTube, Discord, Reddit",More than 5 hours,3,4,4,4,3,3,2,1,3,3,3,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,5,3,3,5,5,5,5,1,5,4,5,Mittel
+17,School Student,"Facebook, Instagram, YouTube, Discord",More than 5 hours,2,4,3,5,5,5,3,1,5,4,5,Viel
+26,University Student,Facebook,Between 4 and 5 hours,4,4,2,4,3,4,3,2,4,3,4,Viel
+18,School Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,4,5,5,4,4,3,5,3,5,Mittel
+18,School Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,2,1,1,3,3,2,1,1,2,2,2,Mittel
+18,School Student,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",Between 3 and 4 hours,5,3,4,3,4,4,1,1,3,5,5,Mittel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,3,4,2,4,5,4,2,2,4,3,3,Mittel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 1 and 2 hours,4,5,3,5,2,5,1,3,3,2,1,Wenig
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",More than 5 hours,4,4,3,4,5,4,4,2,3,3,5,Viel
+25,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",Less than an Hour,2,2,3,2,3,3,3,3,2,2,4,Wenig
+26,Salaried Worker,"Facebook, Instagram, YouTube, Reddit",Between 2 and 3 hours,4,3,3,3,5,4,4,4,5,5,4,Mittel
+20,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",More than 5 hours,4,5,3,4,5,4,5,4,4,4,5,Viel
+19,School Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",Between 1 and 2 hours,4,3,1,3,4,2,2,3,1,4,3,Wenig
+17,School Student,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,4,1,3,2,5,4,5,1,4,4,1,Mittel
+24,University Student,"Facebook, Instagram, YouTube, Snapchat",Between 3 and 4 hours,4,3,5,3,3,5,4,3,3,3,3,Mittel
+29,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",More than 5 hours,5,5,5,4,5,4,3,4,4,4,3,Viel
+30,Retired,"Facebook, Instagram, YouTube",Between 3 and 4 hours,1,5,1,2,3,3,2,3,3,3,2,Mittel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",Between 3 and 4 hours,4,5,4,4,5,5,5,3,5,4,4,Mittel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,4,3,2,4,4,4,3,3,5,5,5,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",More than 5 hours,5,5,2,3,4,3,4,4,5,3,5,Viel
+20,University Student,"Facebook, Instagram, YouTube, Discord",More than 5 hours,3,5,3,5,5,5,5,5,5,5,5,Viel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",Between 4 and 5 hours,4,3,2,5,5,4,5,3,5,5,5,Viel
+22,University Student,YouTube,Between 4 and 5 hours,3,1,2,3,4,2,2,1,4,3,5,Viel
+22,University Student,"Facebook, Instagram",Between 2 and 3 hours,3,2,2,2,5,3,5,5,3,3,5,Mittel
+22,University Student,"Facebook, Instagram, Snapchat",More than 5 hours,1,5,2,3,5,2,1,2,3,3,4,Viel
+27,Salaried Worker,"Facebook, Instagram, YouTube, Reddit, TikTok",Between 4 and 5 hours,4,3,3,4,3,3,4,4,2,1,2,Viel
+21,University Student,"Facebook, Instagram, YouTube",More than 5 hours,5,4,2,2,2,3,2,1,2,2,5,Viel
+23,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",Between 4 and 5 hours,4,3,2,4,4,3,4,4,4,3,4,Viel
+22,University Student,"Facebook, Instagram, YouTube, Discord",Between 3 and 4 hours,4,4,5,4,2,4,3,4,2,3,4,Mittel
+21,University Student,YouTube,Between 3 and 4 hours,3,4,4,3,3,3,2,3,1,3,2,Mittel
+23,University Student,"Facebook, YouTube, Discord, Reddit",Between 2 and 3 hours,4,2,1,2,3,2,3,1,3,2,2,Mittel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Pinterest",More than 5 hours,4,5,3,4,4,4,3,4,4,4,3,Viel
+20,University Student,"Facebook, Instagram, YouTube",Between 4 and 5 hours,5,3,2,3,4,2,2,3,3,4,3,Viel
+23,University Student,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",Between 1 and 2 hours,2,1,1,2,5,3,3,1,3,2,4,Wenig
+22,University Student,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",Between 3 and 4 hours,3,5,3,5,5,5,5,3,5,4,5,Mittel
+20,University Student,"Facebook, Instagram, YouTube, Snapchat",More than 5 hours,5,3,4,3,5,5,5,4,5,5,3,Viel
+21,University Student,"Facebook, Instagram, YouTube, Snapchat, Discord",Between 3 and 4 hours,4,4,4,4,4,5,4,4,4,4,5,Mittel
+25,University Student,"Facebook, Twitter, Instagram, YouTube, Pinterest",Between 2 and 3 hours,3,5,2,2,3,3,1,1,2,4,5,Mittel
+21,University Student,"Facebook, Instagram, Discord",Between 3 and 4 hours,2,2,1,4,4,4,2,1,2,2,2,Mittel
+28,University Student,"Facebook, Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,4,3,1,4,5,4,1,1,4,1,5,Viel
+22,Salaried Worker,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 3 and 4 hours,1,1,1,5,3,5,1,1,3,4,3,Mittel
+60,Retired,"Facebook, YouTube",Between 2 and 3 hours,1,2,1,1,1,1,3,3,1,1,1,Mittel
+49,Salaried Worker,"Facebook, YouTube, Pinterest",Less than an Hour,3,4,3,3,4,3,3,3,3,2,2,Wenig
+34,Salaried Worker,"Facebook, Instagram, YouTube",Less than an Hour,2,1,1,1,1,1,3,1,1,2,1,Wenig
+56,Salaried Worker,"Facebook, Twitter, YouTube, Pinterest",Between 2 and 3 hours,1,1,1,1,1,1,1,1,1,1,2,Mittel
+51,Salaried Worker,"Facebook, Twitter, Instagram, YouTube",Between 1 and 2 hours,3,2,3,4,2,3,4,3,2,2,4,Wenig
+23,School Student,Facebook,Between 2 and 3 hours,3,3,3,3,3,2,2,3,4,2,2,Mittel
+21,University Student,"Facebook, YouTube, Discord",Between 4 and 5 hours,3,5,3,3,3,2,3,1,2,2,3,Viel
+50,University Student,"Facebook, Instagram",Between 1 and 2 hours,1,1,1,1,1,1,1,1,1,1,1,Wenig
+22,University Student,"Twitter, Instagram, YouTube",Between 3 and 4 hours,2,2,1,4,5,5,1,1,3,5,2,Mittel
+28,Salaried Worker,"Facebook, Instagram, YouTube, Pinterest",Between 2 and 3 hours,5,4,1,5,4,5,2,2,5,5,2,Mittel
+13,School Student,"Instagram, YouTube, Discord",Between 4 and 5 hours,3,4,1,3,3,1,1,1,3,3,4,Viel
+14,School Student,"Instagram, Discord",Between 2 and 3 hours,3,4,2,4,3,2,1,1,2,3,1,Mittel
+13,School Student,"Twitter, Instagram, YouTube, Discord, Pinterest",More than 5 hours,4,4,3,4,2,4,2,2,2,3,2,Viel
+23,School Student,"Facebook, Instagram, YouTube, Discord",Between 4 and 5 hours,2,4,2,3,4,4,1,1,3,2,3,Viel
+18,University Student,"Discord, Reddit",Between 1 and 2 hours,3,3,1,3,2,1,1,1,1,2,4,Wenig
+18,School Student,Pinterest,More than 5 hours,2,3,1,3,5,3,5,2,5,2,1,Viel
+15,School Student,"Instagram, YouTube, Discord, Reddit",Between 4 and 5 hours,1,1,1,3,3,3,3,3,1,1,1,Viel
+20,University Student,"Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",Between 1 and 2 hours,2,2,1,3,5,3,5,2,5,4,5,Wenig
+20,University Student,"Facebook, Instagram, YouTube",More than 5 hours,5,4,2,4,5,3,1,2,4,3,4,Viel
+35,Salaried Worker,"Facebook, Instagram, YouTube",Between 1 and 2 hours,3,2,2,3,3,2,1,2,2,4,4,Wenig
+26,University Student,"Facebook, YouTube, TikTok",Between 2 and 3 hours,4,4,3,3,4,4,4,3,4,3,4,Mittel
+30,Salaried Worker,"Facebook, Instagram, YouTube",Between 4 and 5 hours,2,4,4,3,4,5,4,2,4,2,1,Viel
+32,Salaried Worker,"Facebook, Instagram",Between 3 and 4 hours,5,5,3,5,5,5,5,4,5,5,4,Mittel
+24,Salaried Worker,"Facebook, Instagram, YouTube",Between 2 and 3 hours,3,4,3,4,3,4,4,4,3,4,4,Mittel
+26,Salaried Worker,"Facebook, YouTube",Between 1 and 2 hours,2,1,2,3,4,4,4,4,4,4,1,Wenig
+29,Salaried Worker,"Facebook, YouTube",Between 2 and 3 hours,3,3,4,3,2,3,3,4,2,2,2,Mittel
+21,University Student,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",Between 2 and 3 hours,2,3,2,3,3,2,2,4,4,5,4,Mittel
+53,Salaried Worker,"Facebook, YouTube",Less than an Hour,2,3,1,3,1,1,3,2,2,2,3,Wenig
