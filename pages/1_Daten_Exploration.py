@@ -106,7 +106,7 @@ with tab_overview:
 
     1.  ❌ **Inaktive Nutzer entfernt:** 3 Personen gaben an, Social Media nicht zu nutzen.
     2.  ❌ **Ausreißer bereinigt:** Ein Datensatz mit Alter **91** wurde als unplausibel entfernt.
-    3.  🗑️ **Feature Selection:** 7 Unnötige Spalten, die keinen Mehrwert für die Analyse bieten, wurden entfernt.
+    3.  🗑️ **Feature Selection:** 6 Unnötige Spalten, die keinen Mehrwert für die Analyse bieten, wurden entfernt.
     4.  🖊️ **Zusammenfassung einer Spalte: ** Die  Social Media Nutzungszeit habe ich unterteilt in 3 Kategorien (Wenig, Mittel, Viel)
     """)
 
